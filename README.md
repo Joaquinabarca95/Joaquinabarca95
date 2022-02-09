@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquin Abarca</h1>
 <h3 align="center">A passionate fullstack developer from Chile</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/Joaquinabarca95](github.com/Joaquinabarca95)
+- 👨‍💻 All of my projects are available [here](https://github.com/Joaquinabarca95?tab=repositories)
 
 - 📫 How to reach me **joaquinabarca@live.com**
 
